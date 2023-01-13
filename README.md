@@ -1,3 +1,3 @@
-# git-essentials
+# git-essentials/ Git for everybody
 
-  	Some updated text
+this is a code that is changed updated
